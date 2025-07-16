@@ -1,0 +1,21 @@
+{
+  "extends": ["airbnb", "prettier", "plugin:node/recommended"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error",
+    "spaced-comment": "off",// 注释后必须有空格
+    "no-console": "off",
+    "consistent-return": "off",
+    "func-names": "off",
+    // "object-shorthand": "off",
+    "no-process-exit": "off",
+    "no-param-reassign": "off",
+    "no-return-await": "off",
+    // "prefer-destructuring": "off",//关闭强制解构赋值
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off",
+    "node/no-unsupported-features/es-syntax": "off",
+    "prefer-destructuring": ["error", { "object": true, "array": false }],//强制使用解构赋值来提取对象属性，但不适用于数组。
+    "no-unused-vars": ["error", { "argsIgnorePattern": "req|res|next|val" }]//强制报告未使用的变量，但忽略参数名匹配req|res|next|val的变量
+  }
+}
