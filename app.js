@@ -1,5 +1,6 @@
 const express = require('express');
 const morgan = require('morgan');
+const cors = require('cors');
 const rateLimit = require('express-rate-limit');
 const helmet = require('helmet');
 const mongoSanitize = require('express-mongo-sanitize');
@@ -35,6 +36,9 @@ app.use('/api', limiter);
 
 //Body parse，reading data from body into req.body
 app.use(express.json({ limit: '10kb' }));
+
+// 导入并使用 cors
+app.use(cors());
 
 //Data sanitization against NOSQL query injetion  sanitization=>净化 against=>反对，防止
 app.use(mongoSanitize());
