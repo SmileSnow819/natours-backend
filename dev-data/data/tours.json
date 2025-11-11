@@ -1,7 +1,7 @@
 [
   {
     "startLocation": {
-      "description": "Miami, USA",
+      "description": "迈阿密, 美国",
       "type": "Point",
       "coordinates": [-80.185942, 25.774772],
       "address": "301 Biscayne Blvd, Miami, FL 33132, USA"
@@ -15,40 +15,40 @@
       "2021-08-18T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2955",
-    "name": "The Sea Explorer",
+    "name": "海洋探索者",
     "duration": 7,
     "maxGroupSize": 15,
-    "difficulty": "medium",
+    "difficulty": "中等",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
     "price": 497,
-    "summary": "Exploring the jaw-dropping US east coast by foot and by boat",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "summary": "徒步和乘船探索令人惊叹的美国东海岸",
+    "description": "这是一次难忘的海洋探险之旅，我们将带您领略美国东海岸最壮丽的自然风光。从迈阿密出发，沿着海岸线一路前行，您将有机会近距离观察丰富的海洋生物，感受海风的轻抚，体验独特的海滨文化。专业的导游团队将确保您的旅程既安全又充满乐趣。",
     "imageCover": "tour-2-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2959",
-        "description": "Lummus Park Beach",
+        "description": "卢姆斯公园海滩",
         "type": "Point",
         "coordinates": [-80.128473, 25.781842],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2958",
-        "description": "Islamorada",
+        "description": "伊斯兰拉达",
         "type": "Point",
         "coordinates": [-80.647885, 24.909047],
         "day": 2
       },
       {
         "_id": "5c88fa8cf4afda39709c2957",
-        "description": "Sombrero Beach",
+        "description": "松布雷罗海滩",
         "type": "Point",
         "coordinates": [-81.0784, 24.707496],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2956",
-        "description": "West Key",
+        "description": "西礁岛",
         "type": "Point",
         "coordinates": [-81.768719, 24.552242],
         "day": 5
@@ -57,7 +57,7 @@
   },
   {
     "startLocation": {
-      "description": "Banff, CAN",
+      "description": "班夫, 加拿大",
       "type": "Point",
       "coordinates": [-115.570154, 51.178456],
       "address": "224 Banff Ave, Banff, AB, Canada"
@@ -71,37 +71,37 @@
       "2021-10-05T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2951",
-    "name": "The Forest Hiker",
+    "name": "森林徒步者",
     "duration": 5,
     "maxGroupSize": 25,
-    "difficulty": "easy",
+    "difficulty": "简单",
     "guides": [
       "5c8a21d02f8fb814b56fa189",
       "5c8a201e2f8fb814b56fa186",
       "5c8a1f292f8fb814b56fa184"
     ],
     "price": 397,
-    "summary": "Breathtaking hike through the Canadian Banff National Park",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "summary": "穿越加拿大班夫国家公园的 breathtaking 徒步之旅",
+    "description": "在加拿大最壮丽的班夫国家公园中，我们将带您穿越原始森林，欣赏令人屏息的自然美景。从翠绿的湖泊到雄伟的山峰，每一步都是一次心灵的洗礼。适合各个年龄段的游客，是亲近自然的绝佳选择。",
     "imageCover": "tour-1-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2954",
-        "description": "Banff National Park",
+        "description": "班夫国家公园",
         "type": "Point",
         "coordinates": [-116.214531, 51.417611],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2953",
-        "description": "Jasper National Park",
+        "description": "贾斯珀国家公园",
         "type": "Point",
         "coordinates": [-118.076152, 52.875223],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2952",
-        "description": "Glacier National Park of Canada",
+        "description": "加拿大冰川国家公园",
         "type": "Point",
         "coordinates": [-117.490309, 51.261937],
         "day": 5
@@ -110,7 +110,7 @@
   },
   {
     "startLocation": {
-      "description": "Aspen, USA",
+      "description": "阿斯彭, 美国",
       "type": "Point",
       "coordinates": [-106.822318, 39.190872],
       "address": "419 S Mill St, Aspen, CO 81611, USA"
@@ -124,30 +124,30 @@
       "2023-01-06T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295a",
-    "name": "The Snow Adventurer",
+    "name": "雪地冒险家",
     "duration": 4,
     "maxGroupSize": 10,
-    "difficulty": "difficult",
+    "difficulty": "困难",
     "guides": [
       "5c8a21d02f8fb814b56fa189",
       "5c8a23412f8fb814b56fa18c",
       "5c8a1f4e2f8fb814b56fa185"
     ],
     "price": 997,
-    "summary": "Exciting adventure in the snow with snowboarding and skiing",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "summary": "在雪地中享受单板滑雪和滑雪的刺激冒险",
+    "description": "对于真正的冒险爱好者来说，这是一次不容错过的雪地体验。在专业教练的指导下，您将掌握滑雪和单板滑雪的技巧，在粉雪中尽情驰骋。从初学者到高手，我们都有适合您的课程和路线。",
     "imageCover": "tour-3-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c295c",
-        "description": "Aspen Highlands",
+        "description": "阿斯彭高地",
         "type": "Point",
         "coordinates": [-106.855385, 39.182677],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295b",
-        "description": "Beaver Creek",
+        "description": "海狸溪",
         "type": "Point",
         "coordinates": [-106.516623, 39.60499],
         "day": 2
@@ -156,7 +156,7 @@
   },
   {
     "startLocation": {
-      "description": "Las Vegas, USA",
+      "description": "拉斯维加斯, 美国",
       "type": "Point",
       "coordinates": [-115.172652, 36.110904],
       "address": "3663 S Las Vegas Blvd, Las Vegas, NV 89109, USA"
@@ -170,44 +170,44 @@
       "2022-08-12T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2961",
-    "name": "The Park Camper",
+    "name": "公园露营者",
     "duration": 10,
     "maxGroupSize": 15,
-    "difficulty": "medium",
+    "difficulty": "中等",
     "guides": [
       "5c8a21f22f8fb814b56fa18a",
       "5c8a23412f8fb814b56fa18c",
       "5c8a201e2f8fb814b56fa186"
     ],
     "price": 1497,
-    "summary": "Breathing in Nature in America's most spectacular National Parks",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "summary": "在美国最壮观的国家公园中呼吸大自然的气息",
+    "description": "从拉斯维加斯出发，深入美国西部最著名的国家公园。您将在专业向导的带领下，探索锡安峡谷、羚羊峡谷和大峡谷等自然奇观。夜晚在星空下露营，白天徒步探险，这是一次真正意义上的自然之旅。",
     "imageCover": "tour-5-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2965",
-        "description": "Zion Canyon National Park",
+        "description": "锡安峡谷国家公园",
         "type": "Point",
         "coordinates": [-112.987418, 37.198125],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2964",
-        "description": "Antelope Canyon",
+        "description": "羚羊峡谷",
         "type": "Point",
         "coordinates": [-111.376161, 36.86438],
         "day": 4
       },
       {
         "_id": "5c88fa8cf4afda39709c2963",
-        "description": "Grand Canyon National Park",
+        "description": "大峡谷国家公园",
         "type": "Point",
         "coordinates": [-112.115763, 36.058973],
         "day": 5
       },
       {
         "_id": "5c88fa8cf4afda39709c2962",
-        "description": "Joshua Tree National Park",
+        "description": "约书亚树国家公园",
         "type": "Point",
         "coordinates": [-116.107963, 34.011646],
         "day": 9
@@ -216,7 +216,7 @@
   },
   {
     "startLocation": {
-      "description": "NYC, USA",
+      "description": "纽约, 美国",
       "type": "Point",
       "coordinates": [-73.985141, 40.75894],
       "address": "Manhattan, NY 10036, USA"
@@ -230,33 +230,33 @@
       "2021-06-09T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c295d",
-    "name": "The City Wanderer",
+    "name": "城市漫游者",
     "duration": 9,
     "maxGroupSize": 20,
-    "difficulty": "easy",
+    "difficulty": "简单",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
     "price": 1197,
-    "summary": "Living the life of Wanderlust in the US' most beatiful cities",
-    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat lorem ipsum dolor sit amet.\nConsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!",
+    "summary": "在美国最美丽的城市中体验漫游生活",
+    "description": "从纽约的摩天大楼到洛杉矶的阳光海滩，再到旧金山的金门大桥，这次旅程将带您领略美国最具代表性的城市风光。深入了解每个城市的独特文化、美食和生活方式，体验真正的都市漫游。",
     "imageCover": "tour-4-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2960",
-        "description": "New York",
+        "description": "纽约",
         "type": "Point",
         "coordinates": [-73.967696, 40.781821],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c295f",
-        "description": "Los Angeles",
+        "description": "洛杉矶",
         "type": "Point",
         "coordinates": [-118.324396, 34.097984],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c295e",
-        "description": "San Francisco",
+        "description": "旧金山",
         "type": "Point",
         "coordinates": [-122.408865, 37.787825],
         "day": 5
@@ -265,7 +265,7 @@
   },
   {
     "startLocation": {
-      "description": "California, USA",
+      "description": "加利福尼亚, 美国",
       "type": "Point",
       "coordinates": [-118.803461, 34.006072],
       "address": "29130 Cliffside Dr, Malibu, CA 90265, USA"
@@ -279,51 +279,51 @@
       "2022-03-18T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2966",
-    "name": "The Sports Lover",
+    "name": "运动爱好者",
     "duration": 14,
     "maxGroupSize": 8,
-    "difficulty": "difficult",
+    "difficulty": "困难",
     "guides": [
       "5c8a21f22f8fb814b56fa18a",
       "5c8a1f292f8fb814b56fa184",
       "5c8a1f4e2f8fb814b56fa185"
     ],
     "price": 2997,
-    "summary": "Surfing, skating, parajumping, rock climbing and more, all in one tour",
-    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "summary": "冲浪、滑板、跳伞、攀岩等多种运动体验，尽在一次旅行中",
+    "description": "这是一次为真正的运动爱好者设计的极限体验之旅。在两周的时间内，您将尝试冲浪、滑板、跳伞、攀岩等多种刺激的运动项目。专业的教练团队将确保您的安全，同时帮助您突破自我。",
     "imageCover": "tour-6-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c296b",
-        "description": "Point Dume Beach",
+        "description": "点杜姆海滩",
         "type": "Point",
         "coordinates": [-118.809361, 34.003098],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c296a",
-        "description": "Venice Skate Park",
+        "description": "威尼斯滑板公园",
         "type": "Point",
         "coordinates": [-118.47549, 33.987367],
         "day": 4
       },
       {
         "_id": "5c88fa8cf4afda39709c2969",
-        "description": "San Diego Skydive",
+        "description": "圣地亚哥跳伞",
         "type": "Point",
         "coordinates": [-116.830104, 33.022843],
         "day": 6
       },
       {
         "_id": "5c88fa8cf4afda39709c2968",
-        "description": "Kern River Rafting",
+        "description": "克恩河漂流",
         "type": "Point",
         "coordinates": [-118.4547, 35.710359],
         "day": 7
       },
       {
         "_id": "5c88fa8cf4afda39709c2967",
-        "description": "Yosemite National Park",
+        "description": "优胜美地国家公园",
         "type": "Point",
         "coordinates": [-119.600492, 37.742371],
         "day": 10
@@ -332,7 +332,7 @@
   },
   {
     "startLocation": {
-      "description": "Utah, USA",
+      "description": "犹他州, 美国",
       "type": "Point",
       "coordinates": [-109.55099, 37.283469],
       "address": "Bluff, UT 84512, USA"
@@ -346,33 +346,33 @@
       "2022-01-30T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2970",
-    "name": "The Star Gazer",
+    "name": "星空观测者",
     "duration": 9,
     "maxGroupSize": 8,
-    "difficulty": "medium",
+    "difficulty": "中等",
     "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
     "price": 2997,
-    "summary": "The most remote and stunningly beautiful places for seeing the night sky",
-    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "summary": "在最偏远和美丽的地方观赏夜空",
+    "description": "远离城市的光污染，前往美国西部最适宜观星的偏远地区。在天文专家的指导下，您将学习如何识别星座，使用专业望远镜观测深空天体，感受宇宙的浩瀚与神秘。",
     "imageCover": "tour-8-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2973",
-        "description": "Natural Bridges National Monument",
+        "description": "天然桥国家保护区",
         "type": "Point",
         "coordinates": [-109.99953, 37.629017],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c2972",
-        "description": "Horseshoe Bend",
+        "description": "马蹄湾",
         "type": "Point",
         "coordinates": [-111.50954, 36.883269],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c2971",
-        "description": "Death Valley National Park",
+        "description": "死亡谷国家公园",
         "type": "Point",
         "coordinates": [-117.07399, 36.501435],
         "day": 6
@@ -381,7 +381,7 @@
   },
   {
     "startLocation": {
-      "description": "Yellowknife, CAN",
+      "description": "耶洛奈夫, 加拿大",
       "type": "Point",
       "coordinates": [-114.406097, 62.439943],
       "address": "Yellowknife, NT X1A 2L2, Canada"
@@ -395,23 +395,23 @@
       "2022-12-12T10:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c2974",
-    "name": "The Northern Lights",
+    "name": "北极光之旅",
     "duration": 3,
     "maxGroupSize": 12,
-    "difficulty": "easy",
+    "difficulty": "简单",
     "guides": [
       "5c8a21f22f8fb814b56fa18a",
       "5c8a201e2f8fb814b56fa186",
       "5c8a23412f8fb814b56fa18c"
     ],
     "price": 1497,
-    "summary": "Enjoy the Northern Lights in one of the best places in the world",
-    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "summary": "在世界最佳地点之一欣赏北极光",
+    "description": "在加拿大西北地区的耶洛奈夫，您将有机会目睹自然界最壮观的景象——北极光。我们提供温暖的观测小屋、专业摄影指导和最佳观测时间建议，确保您获得难忘的极光体验。",
     "imageCover": "tour-9-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c2975",
-        "description": "Yellowknife",
+        "description": "耶洛奈夫",
         "type": "Point",
         "coordinates": [-114.406097, 62.439943],
         "day": 1
@@ -420,7 +420,7 @@
   },
   {
     "startLocation": {
-      "description": "California, USA",
+      "description": "加利福尼亚, 美国",
       "type": "Point",
       "coordinates": [-122.29286, 38.294065],
       "address": "560 Jefferson St, Napa, CA 94559, USA"
@@ -434,33 +434,33 @@
       "2021-09-01T09:00:00.000Z"
     ],
     "_id": "5c88fa8cf4afda39709c296c",
-    "name": "The Wine Taster",
+    "name": "葡萄酒品鉴师",
     "duration": 5,
     "maxGroupSize": 8,
-    "difficulty": "easy",
+    "difficulty": "简单",
     "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
     "price": 1997,
-    "summary": "Exquisite wines, scenic views, exclusive barrel tastings,  and much more",
-    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "summary": "精致的葡萄酒、风景如画的景色、独家桶装品鉴等等",
+    "description": "深入加州著名的纳帕谷葡萄酒产区，参观多家知名酒庄，学习葡萄酒的酿造过程，品尝各种获奖葡萄酒。在专业的品酒师指导下，您将学会如何鉴别葡萄酒的品质，感受葡萄酒文化的魅力。",
     "imageCover": "tour-7-cover.jpg",
     "locations": [
       {
         "_id": "5c88fa8cf4afda39709c296f",
-        "description": "Beringer Vineyards",
+        "description": "贝灵哲葡萄园",
         "type": "Point",
         "coordinates": [-122.479887, 38.510312],
         "day": 1
       },
       {
         "_id": "5c88fa8cf4afda39709c296e",
-        "description": "Clos Pegase Winery & Tasting Room",
+        "description": "克洛斯佩加斯酒庄品鉴室",
         "type": "Point",
         "coordinates": [-122.582948, 38.585707],
         "day": 3
       },
       {
         "_id": "5c88fa8cf4afda39709c296d",
-        "description": "Raymond Vineyard and Cellar",
+        "description": "雷蒙德葡萄园和酒窖",
         "type": "Point",
         "coordinates": [-122.434697, 38.482181],
         "day": 5

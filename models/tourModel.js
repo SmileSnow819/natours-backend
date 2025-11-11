@@ -9,7 +9,7 @@ const tourSchema = new mongoose.Schema(
       unique: true,
       trim: true,
       maxlength: [40, '名字最大长度不能超过40'],
-      minlength: [10, '名字最小长度不能超过10'],
+      minlength: [4, '名字最小长度不能少于过4'],
     },
     duration: {
       type: String,
@@ -23,7 +23,7 @@ const tourSchema = new mongoose.Schema(
       type: String,
       required: [true, '必须有一个难度'],
       enum: {
-        values: ['easy', 'medium', 'difficult'],
+        values: ['简单', '中等', '困难'],
         message: '不能是easy，medium，difficult以外的值！',
       },
     },
@@ -160,7 +160,7 @@ tourSchema.pre(/^find/, function (next) {
 });
 
 //虚拟属性,只有访问时候才存在
-tourSchema.virtual('duraionWeeks').get(function () {
+tourSchema.virtual('durationWeeks').get(function () {
   return this.duration / 7;
 });
 //model 大写
